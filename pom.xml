@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>devopsPractice</groupId>
-	<artifactId>devopsPractice</artifactId>
+	<artifactId>devopspractice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>devopsPractice</name>
+	<name>devopspractice</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -103,7 +103,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>3.0.1</version>
 				<configuration>
-					<appName>devopsPractice</appName>
+					<appName>devopspractice</appName>
 					<includeTarget>false</includeTarget>
 					<includes>
 						<include>${project.build.directory}/${project.build.finalName}.jar</include>
