@@ -2,4 +2,4 @@
 FROM openjdk:8
 COPY . /
 EXPOSE 8181
-ENTRYPOINT ["java","-jar","target/devopsPractice-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java","-jar","target/devopspractice-0.0.1-SNAPSHOT.jar"]
