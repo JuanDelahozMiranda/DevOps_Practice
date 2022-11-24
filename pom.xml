@@ -10,7 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>devopsPractice</groupId>
+	<groupId>devopspractice</groupId>
 	<artifactId>devopspractice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devopspractice</name>
